@@ -1,0 +1,3 @@
+estou com um bocado de dificuldade em perceber a diferença entre a relação One-to-Many e Many-to-One
+ou seja onde devo pôr a relationship()
+percebo onde pôr a Foreign_Key tho
