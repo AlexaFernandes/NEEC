@@ -1,3 +1,6 @@
 estou com um bocado de dificuldade em perceber a diferença entre a relação One-to-Many e Many-to-One
 ou seja onde devo pôr a relationship()
 percebo onde pôr a Foreign_Key tho
+
+outra cena que estava a reparar é que tu fizeste de maneira diferente da que está no tutorial do Auth0, por exemplo, no one-to-one
+tu usas uma Foreign_Key+relationship, mas no tutorial usam duas relationships 
