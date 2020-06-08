@@ -4,3 +4,10 @@ percebo onde pôr a Foreign_Key tho
 
 outra cena que estava a reparar é que tu fizeste de maneira diferente da que está no tutorial do Auth0, por exemplo, no one-to-one
 tu usas uma Foreign_Key+relationship, mas no tutorial usam duas relationships 
+Nevermind, mais embaixo ele faz como fizeste
+
+1.considerei que as relações equipa-pessoas e pessoa-contactos eram one-to-many, is that right?
+
+2. era suposto a partir da tabela das equipas ir buscar a lista de membros?
+se sim, era suposto ser ao contrário,ou seja, Many-to-one?
+
